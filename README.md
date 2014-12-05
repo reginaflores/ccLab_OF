@@ -3,7 +3,7 @@ _____________________________________________
 
 ###Projection Mapping with Kinect
 
-This project is made for use in a performance piece. A dancer moves in the line of sight of the Kinect and color is projected 
+This project is made for use in a performance piece. A dancer moves in the line of sight of the Kinect and a colored outline of the dancers body is projected on the wall. Balls fall from the ceiling and the dancer is able to interact with the balls. 
 
 Note: It will not run unless you have a kinect and a projector set up. 
 
