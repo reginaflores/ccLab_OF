@@ -37,6 +37,6 @@ _____________________________________________
 
 Images of the effects.
 
-![balls](images/balls.jpg)
+![balls](images/balls.JPG)
 
 
