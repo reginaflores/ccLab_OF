@@ -37,6 +37,6 @@ _____________________________________________
 
 Images of the effects.
 
-![image](images/balls.png)
-![image](images/balls_color.png)
+![image](images/balls.jpg)
+
 
