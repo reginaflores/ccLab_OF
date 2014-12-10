@@ -31,12 +31,12 @@ _____________________________________________
 Calibrating the space using the calibration project file from the ofxKinectProjectorToolkit library.
 
 ![image](images/calibration.JPG)
-![image](images/calibration_screen.JPG)
+![screen](images/calibration_screen.JPG)
 
 _____________________________________________
 
 Images of the effects.
 
-![image](images/balls.jpg)
+![balls](images/balls.jpg)
 
 
